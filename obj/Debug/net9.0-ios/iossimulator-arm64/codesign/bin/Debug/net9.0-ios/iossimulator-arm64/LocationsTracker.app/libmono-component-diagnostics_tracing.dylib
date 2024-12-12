@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/peeratienthong/development_dotNet/LocationsTracker/bin/Debug/net9.0-ios/iossimulator-arm64/LocationsTracker.app/libmono-component-diagnostics_tracing.dylib
